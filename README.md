@@ -199,7 +199,8 @@ This project was built during a vibe coding hackathon, focusing on rapid prototy
 AI tools were used as development assistants to accelerate coding, while design decisions, integration, and logic implementation were handled manually.
 
 ---
-
+## Demo video
+https://drive.google.com/file/d/1Gfl8h_9NsqDuXUCIRYWEf7XDM6TLJeZN/view?usp=drive_link
 ## 👩‍💻 Team Members
 
 M. Akshara
