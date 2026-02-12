@@ -2,9 +2,7 @@
 
 Physiverse is an interactive physics learning platform built during a vibe coding hackathon. It combines structured lessons, practice problems, and real-time physics simulations to help students understand concepts visually instead of just memorizing formulas.
 
-The goal of this project is simple:
-
-> Make physics intuitive, visual, and interactive.
+The goal of this project is to make physics intuitive, visual, and interactive.
 
 ---
 
@@ -208,4 +206,3 @@ M. Akshara
 K. Vennela
 T. Keerthi
 G. Kalyani
-VNR VJIET
